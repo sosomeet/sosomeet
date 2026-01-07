@@ -7,7 +7,7 @@
 
 ## 🔭Interests
 <ul>
-<li>Medical Data Analytics</li>
+<li>Data Analytics</li>
 <li>Process Mining</li>
 <li>Machine Learning</li>
 </ul>
