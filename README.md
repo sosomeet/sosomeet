@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=24E2C1&height=300&section=header&text=Lee%20Chi-woo&fontSize=90&fontColor=000000)
 
+## 💬Contact
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ichiu305@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ichiu_ichiu)
+[![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/ichiu305)
+
+
+
 ## 🎓Education
 <ul>
 <li>Department of Software, Sunrin Internet High School 2018.03~2021.02</li>
@@ -12,6 +19,8 @@
 <li>Process Mining</li>
 <li>Machine Learning</li>
 </ul>
+
+
 
 <!--
 **sosomeet/sosomeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
