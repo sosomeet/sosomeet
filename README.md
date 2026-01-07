@@ -5,7 +5,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ichiu_ichiu)
 [![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/ichiu305)
 
-
+## 🔭Interests
+<ul>
+<li>Data Analytics</li>
+<li>Process Mining</li>
+<li>Machine Learning</li>
+</ul>
 
 ## 🎓Education
 <ul>
@@ -13,12 +18,11 @@
 <li>B.S. in School of Data Science, Kwangwoon University 2021.03~</li>
 </ul>
 
-## 🔭Interests
+## 🌱Internships
 <ul>
-<li>Data Analytics</li>
-<li>Process Mining</li>
-<li>Machine Learning</li>
+<li>Undergraduate Research Student in PADA Lab, Kwangwoon University 2024.06~</li>
 </ul>
+
 
 
 
