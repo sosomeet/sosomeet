@@ -1,4 +1,3 @@
-## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=24E2C1&height=300&section=header&text=Lee%20Chi-woo&fontSize=90&fontColor=000000)
 
 ## 🎓Education
