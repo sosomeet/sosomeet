@@ -1,5 +1,9 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=leechiwoo%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=24E2C1&height=300&section=header&text=Lee%20Chi-woo&fontSize=90&fontColor=000000)
+
+## 🎓Education
+Software, Sunrin Internet High school 2018.03 ~ 2021.02
+B.S. in School of Data Science, Kwangwoon University 2021.03 ~
 
 <!--
 **sosomeet/sosomeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
