@@ -1,8 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=24E2C1&height=300&section=header&text=Lee%20Chi-woo&fontSize=90&fontColor=000000)
 
 ## 🎓Education
-**2018.03~2021.02** Department of Software, Sunrin Internet High School  
-**2021.03~** B.S. in School of Data Science, Kwangwoon University
+<ul>
+<li>Department of Software, Sunrin Internet High School 2018.03~2021.02</li>
+<li>B.S. in School of Data Science, Kwangwoon University 2021.03~</li>
+</ul>
+
+## 🔭Interests
+<ul>
+<li>Data Analytics</li>
+<li>Process Mining</li>
+<li>Machine Learning</li>
+</ul>
 
 <!--
 **sosomeet/sosomeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
