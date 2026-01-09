@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=24E2C1&height=300&section=header&text=Lee%20Chi-woo&fontSize=90&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=wave&color=24E2C1&height=300&section=header&text=Lee%20Chiwoo&fontSize=90&fontColor=000000)
 
 ## 💬Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ichiu305@gmail.com)
