@@ -15,8 +15,8 @@
 
 ## 🎓Education
 <ul>
-<li>Department of Software, Sunrin Internet High School 2018.03~2021.02</li>
 <li>B.S. in School of Data Science, Kwangwoon University 2021.03~</li>
+<li>Department of Software, Sunrin Internet High School 2018.03~2021.02</li>
 </ul>
 
 ## 🌱Internships
