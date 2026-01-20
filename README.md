@@ -8,9 +8,9 @@
 
 ## 🔭Interests
 <ul>
-<li>Data Analytics</li>
-<li>Process Mining</li>
+<li>Data Analysis</li>
 <li>Machine Learning</li>
+<li>Process Mining</li>
 </ul>
 
 ## 🎓Education
