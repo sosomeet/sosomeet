@@ -19,7 +19,7 @@
 <li>Department of Software, Sunrin Internet High School 2018.03~2021.02</li>
 </ul>
 
-## 🌱Internships
+## 🌱Internship
 <ul>
 <li>Undergraduate Research Student in PADA Lab, Kwangwoon University 2024.06~</li>
 </ul>
