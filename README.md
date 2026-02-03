@@ -24,7 +24,10 @@
 <li>Undergraduate Research Student in PADA Lab, Kwangwoon University 2024.06~</li>
 </ul>
 
-
+## ⚡Research
+<ul>
+<li>Structure Learning–Based Interaction Feature Construction for Bank Failure Prediction</li>
+</ul>
 
 
 <!--
