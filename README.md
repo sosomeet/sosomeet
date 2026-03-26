@@ -8,8 +8,8 @@
 
 ## 🔭Interests
 <ul>
-<li>Data Analysis</li>
-<li>Machine Learning</li>
+<li>Graph-based Machine Learning</li>
+<li>Medical Data Analytics</li>
 <li>Process Mining</li>
 </ul>
 
