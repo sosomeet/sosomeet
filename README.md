@@ -22,6 +22,7 @@
 ## 🌱Internship
 <ul>
 <li>Undergraduate Research Student in DA Lab, Kwangwoon University 2024.06~</li>
+<li>Undergraduate Research Student in BOA Lab, POSTECH 2026.06~2026.07</li>
 </ul>
 
 <!--
