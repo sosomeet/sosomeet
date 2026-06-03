@@ -25,12 +25,10 @@
 <li>Undergraduate Research Student in BOA Lab, POSTECH 2026.06~2026.07</li>
 </ul>
 
-<!--
 ## 📝Research
 <ul>
-<li>Structure Learning–Based Interaction Feature Construction for Bank Failure Prediction | 1st Author</li>
+<li>Structure Learning–Based Interaction Feature Construction for Bank Failure Prediction, IEEE Conference Paper | 1st Author</li>
 </ul>
--->
 
 <!--
 **sosomeet/sosomeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
