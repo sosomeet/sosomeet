@@ -27,7 +27,9 @@
 
 ## 📝Research
 <ul>
-<li>Structure Learning–Based Interaction Feature Construction for Bank Failure Prediction, IEEE Access | 1st Author</li>
+<li>
+Structure Learning–Based Interaction Feature Construction for Bank Failure Prediction, IEEE Access, Apr. 2026 | 1st Author
+</li>
 </ul>
 
 <!--
