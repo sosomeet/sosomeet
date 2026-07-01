@@ -22,7 +22,7 @@
 ## 🌱Internship
 <ul>
 <li>Undergraduate Research Student in Data Analytics Lab, Kwangwoon University 2024.06~</li>
-<li>Summer Research Internship in Bio Optics and Acoustics Lab, POSTECH 2026.06~2026.07</li>
+<li>Summer Research Internship in Bio Optics and Acoustics Lab, POSTECH 2026.06~07</li>
 </ul>
 
 ## 📝Research
