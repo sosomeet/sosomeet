@@ -25,7 +25,7 @@
 <li>Summer Research Internship in Bio Optics and Acoustics Lab, POSTECH 2026.06~07</li>
 </ul>
 
-## 📝Research
+## 📝Publication
 <ul>
 <li>
 Structure Learning–Based Interaction Feature Construction for Bank Failure Prediction, IEEE Access, Apr. 2026 | 1st Author
